@@ -36,22 +36,22 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## 📂 Project Structure
 
-movie-recommender-system/
-│
-├── notebooks/                
-│   └── movie_recommender_system.ipynb
+movie-recommender-system/                                                                                                                                                 
+│                                                                                                                                                                                 
+├── notebooks/                                                                               
+│   └── movie_recommender_system.ipynb                                                                                                                                       
 ├── data/                     
-│   └── data/tmdb_5000_credits.csv
-│       data/tmdb_5000_movies.csv
-├── README.md
-├── requirements.txt
-├── .gitignore
+│   └── data/tmdb_5000_credits.csv                                                                                                                                             
+│       data/tmdb_5000_movies.csv                                                                                                                                         
+├── README.md                                                                                                                                                              
+├── requirements.txt                                                                                                                                                       
+├── .gitignore                                                                                                                                                               
 └── LICENSE
 
 
 ## 👨‍💻 Author
-**Shravan Kumar**
-📧 Email: b24bs1350@iitj.ac.in
-📞 Mob: 7631578384
-🌐 LinkedIn: https://www.linkedin.com/in/iitanshravan/
+**Shravan Kumar**                                                                                                                                                          
+📧 Email: b24bs1350@iitj.ac.in                                                                                                                                                       
+📞 Mob: 7631578384                                                                                                                                                                
+🌐 LinkedIn: https://www.linkedin.com/in/iitanshravan/                                                                                                                             
 🐙 GitHub: IITanShravan
