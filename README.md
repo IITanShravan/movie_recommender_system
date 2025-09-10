@@ -9,9 +9,12 @@ This project demonstrates how recommendation engines work by suggesting movies b
 It is designed as a beginner-friendly learning project for understanding data preprocessing, feature engineering, and recommendation logic using Python.
 
 ---
+## Full dataset
+Download the full dataset here:
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## 📊 Dataset
-- The project uses a **sample dataset of movies** (stored in `data/`).  
+- The project uses a **sample dataset of movies** https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata 
 - Each entry contains movie details such as:
   - Movie ID
   - Title
